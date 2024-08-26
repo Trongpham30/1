@@ -1,4 +1,4 @@
-<?php
+
 /*** [ Rework By VuHoang ] ***/
 # Donate Me: 0399498820 MOMO
 if (file_exists("CookieLuuTam.txt")){unlink("CookieLuuTam.txt");}
